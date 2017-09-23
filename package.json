@@ -1,0 +1,15 @@
+{
+  "name": "exercise-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.0.0",
+    "shuffle-array": "^1.0.1"
+  }
+}
